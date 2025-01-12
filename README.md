@@ -1,1 +1,1 @@
-# -clear-arch-todo
+# clear-arch-todo
