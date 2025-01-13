@@ -1,5 +1,5 @@
 <script setup>
-import HomeView from './interfaces/views/HomeView.vue'
+import HomeView from "./interfaces/views/HomeView.vue";
 </script>
 
 <template>
@@ -7,6 +7,3 @@ import HomeView from './interfaces/views/HomeView.vue'
     <HomeView />
   </main>
 </template>
-
-<style scoped>
-</style>

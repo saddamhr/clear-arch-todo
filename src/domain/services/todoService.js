@@ -1,3 +1,3 @@
 export function toggleTodoCompletion(todo) {
-    return { ...todo, completed: !todo.completed };
-  }
+  return { ...todo, completed: !todo.completed };
+}
